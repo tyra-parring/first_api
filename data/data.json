@@ -1,0 +1,91 @@
+{
+    "aboutMe":"My name is Tyra Parring & I am 19 years old",
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"https://github.com/tyra-parring/calculator",
+            "vercel":"https://calculator-six-umber.vercel.app/",
+            "description":"A simple calculator built using HTML, CSS, and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"BMI Calculator",
+            "github":"https://github.com/tyra-parring/bmicalc",
+            "vercel":"https://bmi-calc-rouge.vercel.app/",
+            "description":"A BMI calculator built using HTML, CSS, and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Temperature Convertor",
+            "github":"https://github.com/tyra-parring/temp-convertor",
+            "vercel":"https://temp-convertor-pink.vercel.app/",
+            "description":"A temperature convertor built using HTML, CSS, and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Keyboard",
+            "github":"https://github.com/tyra-parring/keyboard",
+            "vercel":"https://keyboard-five-beta.vercel.app/",
+            "description":"A simple keyboard built using HTML, CSS, and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Swegga Website",
+            "github":"https://github.com/tyra-parring/swegga-site",
+            "vercel":"https://swegga-site.vercel.app/",
+            "description":"A simple replicated website using HTML, CSS",
+            "image":"URL"
+        },
+        {
+            "name":"Interest Calculator",
+            "github":"https://github.com/tyra-parring/interestamount",
+            "vercel":"https://interestamount-gamma.vercel.app/",
+            "description":"A simple interest calculator built using HTML, CSS, and JavaScript",
+            "image":"URL"
+        }
+    ],
+    "education":[{
+        "description":"",
+        "year":"2nd April - to present",
+        "placeOfInstitution":"Life Choice Academy",
+        "contact":[
+            {
+                "name":"Candice",
+                "contactDetails":""
+            }
+        ],
+        "school":"Bonteheuwel High School",
+        "matricYear":"2022"
+    }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        }
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"",
+            "year":"",
+            "description":"",
+            "contact":{
+                "name":"",
+                "cell":"",
+                "position":"",
+                "email":""
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        }
+    ]
+}
