@@ -1,4 +1,5 @@
 {   "about": "Hi! I am Tyra Parring. I am an aspiring developer and my hunger for knowledge and determination to turn information into action has contributed to my success of being at Life Choices Academy today. I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. I would describe myself as an open and honest person who doesn't believe in misleading other people and tries to be fair in everything I do.",
+    "bio": "I am Tyra Parring, a junior web developer passionate about creating dynamic web applications. I love exploring new technologies and continuously improving my skills. My journey in web development started at Life Choices Academy, where I honed my skills in HTML, CSS, JavaScript, and Vue.js.",    
     "welcomeMessage": "Welcome to My Portfolio! Hi there! I’m Tyra Parring, an aspiring web developer dedicated to creating intuitive and visually appealing user experiences. Browse through my work to see how I blend design and technology to craft engaging digital solutions!",
     "projects":[
         {
@@ -151,5 +152,12 @@
     "linkedin": "https://www.linkedin.com/in/tyra-parring-b76767307/",
     "facebook": "https://www.facebook.com/profile.php?id=61553927065200",
     "github": "https://github.com/tyra-parring"
-  }
+  },
+  "funFacts": [
+    "I love solving puzzles and riddles.",
+    "I have a passion for cooking and often experiment with new recipes.",
+    "I enjoy hiking and exploring nature trails.",
+    "I'm an avid reader of fiction novels.",
+    "I have a knack for learning new languages and currently working on improving my Xhosa."
+  ]
 }
