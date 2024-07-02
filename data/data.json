@@ -156,15 +156,15 @@
   "funFacts": [
     {
         "fact": "I love solving puzzles and riddles.",
-        "icon": "puzzle-piece-solid(1).svg"
+        "icon": "puzzle-piece-solid.svg"
       },
       {
         "fact": "I have a passion for cooking and often experiment with new recipes.",
-        "icon": "kitchen-set-solid(1).svg"
+        "icon": "kitchen-set-solid.svg"
       },
       {
         "fact": "I enjoy hiking and exploring nature trails.",
-        "icon": "pagelines(1).svg"
+        "icon": "pagelines.svg"
       },
       {
         "fact": "I'm an avid reader of fiction novels.",
