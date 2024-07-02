@@ -136,18 +136,6 @@
     "linkedin": "https://www.linkedin.com/in/yourprofile",
     "github": "https://github.com/tyra-parring"
   },
-  "achievements": [
-    {
-      "title": "Top Coder",
-      "description": "Awarded as the top coder in a hackathon.",
-      "year": "2023"
-    },
-    {
-      "title": "Best Project",
-      "description": "Won the best project award at Life Choices Academy.",
-      "year": "2022"
-    }
-  ],
 "languages": [
     {
       "language": "English",
