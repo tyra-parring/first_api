@@ -1,5 +1,5 @@
 {
-    "aboutMe":"My name is Tyra Parring & I am 19 years old",
+    "welcomeMessage": "Welcome to My Portfolio! Hi there! I’m Tyra Parring, an aspiring web developer dedicated to creating intuitive and visually appealing user experiences. Browse through my work to see how I blend design and technology to craft engaging digital solutions!",
     "projects":[
         {
             "name":"Calculator",
@@ -42,21 +42,31 @@
             "vercel":"https://interestamount-gamma.vercel.app/",
             "description":"A simple interest calculator built using HTML, CSS, and JavaScript",
             "image":"URL"
+        },
+        {
+            "name":"E-commerce Site",
+            "github":"",
+            "vercel":"",
+            "description":"A simple but functioning e-commerce site built using HTML, CSS, and JavaScript",
+            "image":"URL"
         }
     ],
-    "education":[{
-        "description":"",
-        "year":"2nd April - to present",
-        "placeOfInstitution":"Life Choice Academy",
-        "contact":[
-            {
-                "name":"Candice",
-                "contactDetails":""
-            }
-        ],
-        "school":"Bonteheuwel High School",
-        "matricYear":"2022"
-    }
+    "education":[
+        {
+            "yearRange": "2019 - 2022",
+            "institution": "Bonteheuwel High School",
+            "description": "Completed my schooling career at Bonteheuwel High School."
+          },
+          {
+            "year": "2021",
+            "institution": "Amy Biehl Foundation",
+            "description": "Completed a Reading and Writing Tutoring Workshop under the Amy Biehl Foundation."
+          },
+          {
+            "yearRange": "2024 - 2025",
+            "institution": "Coding Bootcamp",
+            "description": "Joined a Coding Bootcamp program that provided the fundamentals of Web Development, including learning coding languages such as HTML, CSS, JavaScript, and more. The program also focused on interpersonal and self-development skills to aid personal growth both in life and the work environment."
+          }
     ],
     "skills":[
         {
@@ -66,26 +76,92 @@
         {
             "name":"CSS",
             "image":"URL"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"URL"
+        },
+        {
+            "name":"Javascript",
+            "image":"URL"
+        },
+        {
+            "name":"Vue.js",
+            "image":"URL"
+        },
+        {
+            "name":"Node.js",
+            "image":"URL"
         }
     ],
     "workExp":[
         {
-            "placeOfWork":"",
-            "year":"",
-            "description":"",
-            "contact":{
-                "name":"",
-                "cell":"",
-                "position":"",
-                "email":""
-            }
-        }
+            "yearRange": "2022",
+            "company": "FUTUR-ED E-LEARNING CENTRES",
+            "role": "Job Shadowing Programme",
+            "description": "Completed a job shadowing programme at a contact centre promoting products to customers."
+          }
     ],
     "testimonials":[
         {
-            "name":"",
+            "name":"Caitlin Dalwai",
             "position":"",
-            "message":""
+            "message":"Since meeting Tyra through, Life Choices Academy coding program, I have always admired her drive to figure things out. Whether it is problem-solving through code errors or even in life, she has a natural talent for it. She never lets down a challenge and continues to push herself to the best of her ability. Any company will be lucky to have her on their team. - Caitlin Dalwai"
+        },
+        {
+            "name":"Kayden Hendricks",
+            "position":"",
+            "message":"Working alongside Tyra has been an absolute pleasure. Her dedication, professionalism, and remarkable skills have truly made a difference in our team. Not only does she bring a wealth of expertise to the table, but her collaborative spirit and positive attitude also uplift the entire workplace. Tyra consistently goes above and beyond, demonstrating exceptional leadership and problem-solving abilities. She's not just a valuable asset; she's an inspiring role model for everyone around her. I feel fortunate to have had the opportunity to work with her, and I wholeheartedly recommend her to any team or project lucky enough to have her on board. - Kayden Hendricks"
+        },
+        {
+            "name":"Kiara Adams",
+            "position":"",
+            "message":"Tyra is the kind of person everyone wishes they had, she's not just a friend, she's a force of positivity and productivity. From the moment she steps into the room, Tyra radiates energy and enthusiasm for learning. What stands out most about Tyra is her incredible work ethic. She approaches every assignment with determination and diligence, always striving to produce her best work. No matter how challenging the task, Tyra tackles it head-on, demonstrating a remarkable ability to stay focused and organized even under pressure. - Kiara Adams"
+        },
+        {
+            "name":"Ntando Mabuto",
+            "position":"",
+            "message":"Tyra is very talented and always exceeds expectations. She is approachable which makes it easy to collaborate with. - Ntando Mabuto"
+        },
+        {
+            "name":"Matthew Brown",
+            "position":"",
+            "message":"Tyra is an extremely hard working individual. Her confidence really shows when working in groups. Her positive work ethic is a reflection of her character."
         }
-    ]
+    ],
+    "contact": {
+    "address": "Bonteheuwel, Cape Town",
+    "phone": "066 036 5740",
+    "email": "parringt@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yourprofile",
+    "github": "https://github.com/tyra-parring"
+  },
+  "achievements": [
+    {
+      "title": "Top Coder",
+      "description": "Awarded as the top coder in a hackathon.",
+      "year": "2023"
+    },
+    {
+      "title": "Best Project",
+      "description": "Won the best project award at Life Choices Academy.",
+      "year": "2022"
+    }
+  ],
+"languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Afrikaans",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "professionalSummary": "I am a dedicated and enthusiastic web developer with experience in building dynamic websites and web applications using HTML, CSS, JavaScript, and Vue.js. I am passionate about learning new technologies and continuously improving my skills.",
+  "socialMedia": {
+    "linkedin": "https://www.linkedin.com/in/tyra-parring-b76767307/",
+    "facebook": "https://www.facebook.com/profile.php?id=61553927065200",
+    "github": "https://github.com/tyra-parring"
+  }
 }
