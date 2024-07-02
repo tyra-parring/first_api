@@ -72,27 +72,27 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"URL"
+            "icon":"html5.svg"
         },
         {
             "name":"CSS",
-            "image":"URL"
+            "icon":"css3-alt.svg"
         },
         {
             "name":"Bootstrap",
-            "image":"URL"
+            "icon":"bootstrap.svg"
         },
         {
             "name":"Javascript",
-            "image":"URL"
+            "icon":"js.svg"
         },
         {
             "name":"Vue.js",
-            "image":"URL"
+            "icon":"vuejs.svg"
         },
         {
             "name":"Node.js",
-            "image":"URL"
+            "icon":"node-js.svg"
         }
     ],
     "workExp":[
