@@ -103,6 +103,40 @@
             "icon":"figma.svg"
         }
     ],
+    "softSkills": [
+    {
+      "name": "Communication",
+      "description": "Effective verbal and written communication skills."
+    },
+    {
+      "name": "Teamwork",
+      "description": "Ability to work collaboratively with others."
+    },
+    {
+      "name": "Problem-Solving",
+      "description": "Aptitude for resolving issues and overcoming challenges."
+    },
+    {
+      "name": "Adaptability",
+      "description": "Quickly adjusting to new environments and learning new skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "description": "Analytical thinking and ability to make reasoned decisions."
+    },
+    {
+      "name": "Creativity",
+      "description": "Innovative thinking and approach to solving problems."
+    },
+    {
+      "name": "Leadership",
+      "description": "Leading projects and teams to achieve goals."
+    },
+    {
+      "name": "Empathy",
+      "description": "Understanding and sharing the feelings of others."
+    }
+  ],
     "workExp":[
         {
             "yearRange": "2022",
