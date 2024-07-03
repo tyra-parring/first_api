@@ -93,6 +93,14 @@
         {
             "name":"Node.js",
             "icon":"node-js.svg"
+        },
+        {
+            "name":"Git",
+            "icon":"github.svg"
+        },
+        {
+            "name":"Figma",
+            "icon":"figma.svg"
         }
     ],
     "workExp":[
