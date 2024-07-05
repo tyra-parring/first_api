@@ -7,49 +7,49 @@
             "github":"https://github.com/tyra-parring/calculator",
             "vercel":"https://calculator-six-umber.vercel.app/",
             "description":"A simple calculator built using HTML, CSS, and JavaScript",
-            "image":"URL"
+            "image":"https://tyra-parring.github.io/host-/image/calculator.png"
         },
         {
             "name":"BMI Calculator",
             "github":"https://github.com/tyra-parring/bmicalc",
             "vercel":"https://bmi-calc-rouge.vercel.app/",
             "description":"A BMI calculator built using HTML, CSS, and JavaScript",
-            "image":"URL"
+            "image":"https://tyra-parring.github.io/host-/image/bmi.png"
         },
         {
             "name":"Temperature Convertor",
             "github":"https://github.com/tyra-parring/temp-convertor",
             "vercel":"https://temp-convertor-pink.vercel.app/",
             "description":"A temperature convertor built using HTML, CSS, and JavaScript",
-            "image":"URL"
+            "image":"https://tyra-parring.github.io/host-/image/tempconv.png"
         },
         {
             "name":"Keyboard",
             "github":"https://github.com/tyra-parring/keyboard",
             "vercel":"https://keyboard-five-beta.vercel.app/",
             "description":"A simple keyboard built using HTML, CSS, and JavaScript",
-            "image":"URL"
+            "image":"https://tyra-parring.github.io/host-/image/keyboard.png"
         },
         {
             "name":"Swegga Website",
             "github":"https://github.com/tyra-parring/swegga-site",
             "vercel":"https://swegga-site.vercel.app/",
             "description":"A simple replicated website using HTML, CSS",
-            "image":"URL"
+            "image":"https://tyra-parring.github.io/host-/image/swegga.png"
         },
         {
             "name":"Interest Calculator",
             "github":"https://github.com/tyra-parring/interestamount",
             "vercel":"https://interestamount-gamma.vercel.app/",
             "description":"A simple interest calculator built using HTML, CSS, and JavaScript",
-            "image":"URL"
+            "image":"https://tyra-parring.github.io/host-/image/interestamount.png"
         },
         {
             "name":"E-commerce Site",
             "github":"https://github.com/tyra-parring/ecom",
             "vercel":"https://ecom-delta-vert.vercel.app/",
             "description":"A simple but functioning e-commerce site built using HTML, CSS, and JavaScript",
-            "image":"URL"
+            "image":"https://tyra-parring.github.io/host-/image/ecom.png"
         }
     ],
     "education":[
